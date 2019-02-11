@@ -1,0 +1,22 @@
+{
+  "name": "node_02_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paryas/node_02_weather.git"
+  },
+  "author": "Pouyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paryas/node_02_weather/issues"
+  },
+  "homepage": "https://github.com/paryas/node_02_weather#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
